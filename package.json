@@ -1,0 +1,22 @@
+{
+  "name": "cumqueconsectetur",
+  "version": "1.0.0",
+  "description": "An easy to use prototypal inheritance model and generator.",
+  "main": "generate.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FeliciaMarks/cumqueconsectetur.git"
+  },
+  "keywords": [
+    "generate",
+    "blanditiis",
+    "dicta",
+    "inheritance",
+    "illo"
+  ],
+  "author": "BradRodriguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FeliciaMarks/cumqueconsectetur.git/issues"
+  }
+}
